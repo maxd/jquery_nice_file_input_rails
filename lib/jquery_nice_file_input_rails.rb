@@ -1,0 +1,2 @@
+require 'jquery_nice_file_input_rails/version'
+require 'jquery_nice_file_input_rails/engine'
